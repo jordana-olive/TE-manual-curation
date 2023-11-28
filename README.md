@@ -12,6 +12,8 @@ You can use it to search for these expanded families in your own data by creatin
 
 This folder contains several hmm profiles built based on alignments of domains described in the Supp-material S2 sheet.
 All these profiles were combined in a single hmm file and it can be used as database for hmmsearch in your own data.
+
+
 hmmpress 01-expanded-genes.hmm
 
 List of domains in 01-expanded-genes.hmm: 
