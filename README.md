@@ -14,9 +14,9 @@ This folder contains several hmm profiles built based on alignments of domains d
 All these profiles were combined in a single hmm file and it can be used as a database for hmmsearch in your data.
 
 
-hmmpress 01-expanded-genes.hmm
+hmmpress 10-TE-domains-profiles.hmm
 
-List of domains in 01-expanded-genes.hmm: 
+List of domains in 10-TE-domains-profiles.hmm: 
 LINE,
 PLE,
 DIRS,
