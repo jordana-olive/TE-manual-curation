@@ -45,3 +45,6 @@ Transib,
 Zator,
 Plavaka,
 KDZ/Zizupton.
+
+Please, cite: Oliveira JIN, Corradi N (2023) Strain-specific evolution and host-specific regulation of transposable elements in the model plant symbiont Rhizophagus irregulars.
+<i>bioRxiv</i>. doi: https://doi.org/10.1101/2023.12.01.569630
